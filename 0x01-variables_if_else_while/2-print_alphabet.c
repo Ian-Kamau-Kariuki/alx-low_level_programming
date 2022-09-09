@@ -4,8 +4,10 @@
 
 /**
  *main - Starting point of program
+ *
  *Description: Program to print alphabets in lowercase
- *Return: Always 0 Success
+ *
+ * Return: Always 0 Success
  */
 
 
