@@ -3,7 +3,6 @@
 
 
 /**
- *
  *main - Starting point of program
  *
  *Description: Program to display base10 numbers
