@@ -3,18 +3,13 @@
 
 
 /**
+ *main - Starting point of program
  *
- * *main - Starting point of program
+ *Description: Program to print alphabets except q and e
  *
- * *
+ *Return: Always 0 success
  *
- * * Description: Program to print alphabets except q and e
- *
- * *
- *
- * * Return: Always 0 success
- *
- * */
+ */
 
 
 
