@@ -14,8 +14,11 @@ int main(void)
 
 	char *newLine = "\n";
 
-	_putchar(*puts);
+	while (*puts)
+	{
+		_putchar(*puts);
+		puts++;
+	}
 	_putchar(*newLine);
-
 	return (0);
 }
